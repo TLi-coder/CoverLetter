@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather",serif;
+}
+
+h1 {
+  font-size: 500%;
+  font-family: "Sacramento",cursive;
+  margin-top: 50px;
+  color: #66BFBF;
+  line-height: 2
+}
+
+
+
+.Name{
+  font-size: 40px;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.TopContainer {
+  background-color: #C6FFC1;
+  border: solid;
+}
+
+.MiddleContainer {
+
+}
+
+.BottomContainer {
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.BottomImage{
+  height: 70px;
+  position: absolute;
+}
+
+.TopImage{
+height: 120px;
+  position: absolute;
+  left: 70%
+}
+
+.LAM-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+}
+
+.BodyImage{
+  height: 150px;
+}
+
+.cover-letter-img {
+  width: 10%;
+  margin: 20px;
+}
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
